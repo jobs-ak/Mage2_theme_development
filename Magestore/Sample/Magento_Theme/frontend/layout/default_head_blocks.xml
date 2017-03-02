@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>FarmerUncle: Online Farmer Market</title>
+    <meta name="description" content="FarmerUncle is an online farmer market selling fresh, chemical-free and organic fruits. We provide doorstep delivery of fresh fruits and easy payment options.">
+    <meta name="google-site-verification" content="0nIz38fJ-jcTfTssdbpiOCT4TaBbHu1SM1_9MQWGk8s">
+    <link rel="shortcut icon" type="image/png" href="https://farmeruncle.com/assets/images/favicon.png">
+    <css src="css/css.css"/>
+    <css  src="css/tooltip.css" />
+    <css  src="css/progress.css" />
+    <css  src="css/uikit.css" />
+    <css  src="css/bootstrap.css" />
+    <css  src="css/font-awesome.css" />
+    <css  src="css/slidenav.css" />
+    <css  src="css/legacy.css" />
+    <css  src="css/template.css" />
+    <css  src="css/preset1.css"/>
+    <css  src="css/separated.css" />
+    <css  src="css/lists.css" />
+    <css  src="css/settings.css" />
+    <css  src="css/dynamic-captions.css" />
+    <css  src="css/static-captions.css" />
+    <css  src="css/style.css" >
+    <script async="" src="js/default.js" charset="UTF-8" crossorigin="*"></script><script async="" src="js/analytics.js"></script><script src="js/jquery-3.js" type="text/javascript"></script>
+    <script src="js/caption.js" type="text/javascript"></script>
+    <script src="js/grid.js" type="text/javascript"></script>
+    <script src="js/uikit.js" type="text/javascript"></script>
+    <script src="js/bootstrap.js" type="text/javascript"></script>
+    <!-- Below two are needed for Offcanvas Menu -->
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="js/main.js" type="text/javascript"></script>
+    <script src="js/hotjar.js"></script><script async="" src="js/hotjar-385995.js"></script>
+    <script src="js/fu_main.js"></script>
+    <script src="js/ga.js"></script>
+    <remove src="css/styles-m.css"/>
+    <remove src="css/styles-l.css" media="screen and (min-width: 768px)"/>
+    <remove src="css/print.css" media="print"/>
+    </head>
+</page>
